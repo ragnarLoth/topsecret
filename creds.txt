@@ -1,0 +1,5 @@
+// Credential for my outlook account
+
+URL:  https://outlook.live.com/
+Login : sdljffz
+Password : sdfsdrgreggr
